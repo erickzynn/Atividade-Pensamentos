@@ -1,0 +1,32 @@
+/* Componente de navegação */
+
+body {
+    margin: 0;
+    background-color: #000;
+}
+
+li {
+    text-decoration: none;
+}
+
+.navbar ul {
+    display: flex;
+    align-items: center;
+}
+
+.navbar li {
+    text-decoration: none;
+    margin: 60px;
+}
+
+.navbar {
+    display: flex;
+    background-color: #000;
+    justify-content: space-between;
+    padding: 0;
+}
+
+footer {
+    margin: auto;
+    border-top: 2px;
+}
